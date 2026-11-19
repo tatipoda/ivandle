@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+bin/
+out/
+
+# Eclipse configuration
+.settings/
+.classpath
+.project
+
+# VS Code configuration
+.vscode/
+
+# macOS system files
+.DS_Store
+__MACOSX/
